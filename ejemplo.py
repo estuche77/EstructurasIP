@@ -3,6 +3,6 @@ def DivisionEntera(dividendo, divisor):
     resto=0
     while dividendo >=divisor:
         dividendo= dividendo-divisor
-        cociente=cociente+1
+        cociente=cociente+5
     resto=dividendo
     print(dividendo,resto)
